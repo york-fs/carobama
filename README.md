@@ -61,6 +61,6 @@ Contributions are welcome. Please open an issue first describing the change you 
 - If you see SSL/wss errors, ensure your environment allows outgoing TLS websocket connections and that Python's cert store is up-to-date.
 - If you don't receive messages, verify the endpoint and any authentication requirements with the Emporer Servers team.
 
-## License & contact
+## License
+This project utilises the MIT License.
 
-Add your preferred license and contact information here.
